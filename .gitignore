@@ -402,3 +402,4 @@ FodyWeavers.xsd
 cv-venv
 venv
 data
+*.pth
